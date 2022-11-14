@@ -1,0 +1,38 @@
+.new-activity {
+    background-color: #bdcebe;
+    padding: 1rem;
+    margin: 2rem auto;
+    width: 50rem;
+    max-width: 95%;
+    border-radius: 12px;
+    text-align: center;
+    box-shadow: 0 1px 8px rgba(0, 0, 0, 0.25);
+  }
+  
+  .new-activity button {
+    font: inherit;
+    cursor: pointer;
+    padding: 1rem 2rem;
+    border: 1px solid #ada397;
+    background-color:#ada397;
+    color: white;
+    border-radius: 12px;
+    margin-right: 1rem;
+  }
+  
+  .new-activity button:hover,
+  .new-activity button:active {
+    background-color: #ada397;
+    border-color: #ffffff;;
+  }
+  
+  .new-activity button.alternative {
+    color: #ada397;
+    border-color: transparent;
+    background-color: transparent;
+  }
+  
+  .new-activity button.alternative:hover,
+  .new-activity button.alternative:active {
+    background-color: #ada397;
+  }

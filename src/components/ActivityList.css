@@ -1,0 +1,9 @@
+.activities-list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .activities-list__fallback {
+    color: white;
+    text-align: center;
+  }
